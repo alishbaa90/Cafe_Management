@@ -1,1 +1,2 @@
 # Cafe_Management
+A streamlined cafe ordering system built in assembly language, allowing users to select items from hi-tea, brunch, and buffet menus with predefined prices. The system dynamically calculates the total bill, includes error handling for invalid inputs, and ensures efficient processing and memory usage. Designed to simplify order management and improve the billing process in a cafe environment.
